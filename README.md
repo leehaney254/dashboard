@@ -62,7 +62,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://world-info.onrender.com/)
+- [Live Demo Link](https://dashboard-c0k0.onrender.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
