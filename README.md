@@ -74,7 +74,7 @@
 To get a local copy up and running, follow these steps:
 - Create a local directory whre you can clone the project
 - Clone the project to your directory by running
-  - `https://github.com/leehaney254/world-info.git`
+  - `https://github.com/leehaney254/dashboard.git`
 - Install all dependencies by running
   - `npm install`
 - Open project in browser by running
@@ -97,7 +97,7 @@ Clone this repository to your desired folder:
 
 - Create a local directory whre you can clone the project
 - Clone the project to your directory by running
-  - `https://github.com/leehaney254/world-info.git`
+  - `https://github.com/leehaney254/dashboard.git`
 - Install all dependencies by running
   - `npm install`
 - Open project in browser by running
